@@ -1,6 +1,6 @@
 # Synthetics_Events_Service
 
-This Python scripts demonstrates how to use the AppDynamics Event Service Data Store to create a custom schema and post metrics to the schema.
+This Python scripts demonstrates how to create a custom schema and post metrics to the AppDynamics Event Service Data Store.
 
 Once metrics are posted to the AppDynamics Event Service Data: [Dynamics Baselines](https://docs.appdynamics.com/display/PRO45/Dynamic+Baselines) are established for the metrics, [Actional Alerts](https://docs.appdynamics.com/display/PRO45/Alert+and+Respond), can be enabled and [Dashboards](https://docs.appdynamics.com/display/PRO45/Dashboards+and+Reports) created.
 
